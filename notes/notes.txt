@@ -1,0 +1,6 @@
+What is JS?
+
+JS is a multi-dimentional, light weight programming langauge with first class function feature.
+
+It used to be only used on the web, but now, with the help of NodeJS, you can also use it outside of the web.
+
